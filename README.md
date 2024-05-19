@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshagarwal0401
-- 👀 I’m interested in open-source,DSA, Full stack.
-- 🌱 I’m currently learning javascript ,react,java
+- 👀 I’m interested in open-source,DSA, Full stack,and learning with people 
+- 🌱 I’m currently learning javascript ,react and java 
 - 💞️ I’m looking to collaborate on linkedin and github
 - 📫 How to reach me https://www.linkedin.com/in/harsh-agarwal-712472251/
 - 😄 Pronouns: He/Him
