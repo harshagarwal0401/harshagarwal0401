@@ -2,7 +2,7 @@
 - 👀 I’m interested in open-source,DSA, Full stack.
 - 🌱 I’m currently learning javascript ,react,java
 - 💞️ I’m looking to collaborate on linkedin and github
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/harsh-agarwal-712472251/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Even though I made these changes in my readme file , I had done it while learning about what does this do 
 
