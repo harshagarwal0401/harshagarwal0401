@@ -48,9 +48,6 @@
 
 ---
 
-## 📈 Contribution Graph
-![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshagarwal0401&theme=react-dark)
-
 ---
 
 ## 📫 Connect With Me
