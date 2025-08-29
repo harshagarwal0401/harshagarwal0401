@@ -11,3 +11,4 @@ harshagarwal0401/harshagarwal0401 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshagarwal0401&show_icons=true&theme=radical)
+![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshagarwal0401&theme=react-dark)
