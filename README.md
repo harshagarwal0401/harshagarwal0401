@@ -49,8 +49,8 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://[linkedin.com/in/your-link](https://www.linkedin.com/in/harsh-agarwal041/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://[your-portfolio-link](https://harshagarwal0401.github.io/-personal-portfolio/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-agarwal041/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://harshagarwal0401.github.io/-personal-portfolio/)
 
 
 ---
