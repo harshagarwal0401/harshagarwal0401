@@ -1,14 +1,58 @@
-- 👋 Hi, I’m @harshagarwal0401
-- 👀 I’m interested in open-source,DSA, Full stack,and learning with people 
-- 🌱 I’m currently learning javascript ,react and java 
-- 💞️ I’m looking to collaborate on linkedin and github
-- 📫 How to reach me https://www.linkedin.com/in/harsh-agarwal-712472251/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Even though I made these changes in my readme file , I had done it while learning about what does this do 
+# 👋 Hi, I'm Harsh Agarwal
 
-<!---
-harshagarwal0401/harshagarwal0401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshagarwal0401&show_icons=true&theme=radical)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF5733&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Lifelong+Learner)](https://git.io/typing-svg)
+
+---
+
+## 🧑 About Me
+- 🎓 B.Tech student passionate about software development & problem-solving.  
+- 💻 Exploring **MERN Stack + Java + PostgreSQL**.  
+- 🚀 Building projects that blend creativity with technology.  
+- 🌱 Currently learning **Next.js & System Design**.  
+- ⚡ Fun fact: I love turning coffee into code ☕.  
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Languages & Frameworks
+![Java](https://img.shields.io/badge/Code-Java-red?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
+![Express.js](https://img.shields.io/badge/Framework-Express.js-black?logo=express)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-darkgreen?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Tool-Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-lightgrey?logo=vercel)
+![Postman](https://img.shields.io/badge/API-Postman-orange?logo=postman)
+![VS Code](https://img.shields.io/badge/IDE-VSCode-blue?logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshagarwal0401&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshagarwal0401&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=harshagarwal0401&theme=radical)
+
+---
+
+## 📈 Contribution Graph
 ![Harsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshagarwal0401&theme=react-dark)
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+
+---
+
+⭐ From [harshagarwal0401](https://github.com/harshagarwal0401)
