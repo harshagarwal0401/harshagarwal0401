@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harsh Agarwal
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF5733&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF5733&width=435&lines=Full+Stack+Developer;Tech+Explorer)](https://git.io/typing-svg)
 
 ---
 
